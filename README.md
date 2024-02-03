@@ -23,7 +23,4 @@ To run the project, ensure that you have the necessary tools and libraries insta
 Contributions to the project are welcome. If you would like to contribute, please fork the repository, make your changes, and submit a pull request for review.
 
 
-## Contact
-For any inquiries or feedback regarding the project, please contact [Your Name] at [Your Email Address].
-
 ---
