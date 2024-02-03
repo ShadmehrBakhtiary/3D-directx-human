@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1657605812 source:c:\users\bdbir\desktop\c++ pj\data structure\gluut\main.cpp
+	"Windows.h"
+	<gl/GL.h>
+	<GL/glut.h>
+	<iostream>
+
+976695772 c:\program files\codeblocks\mingw\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
